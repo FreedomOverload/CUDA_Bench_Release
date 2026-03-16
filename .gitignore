@@ -1,0 +1,9 @@
+cublas64*
+libcublas*
+
+libcudart*
+cudart64*
+
+libcublasLt*
+cublasLt64*
+
